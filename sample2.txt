@@ -1,0 +1,8 @@
+Using your favorite text editor, create a text file called sample.txt 
+write a short message in it, and save it to the repository directory.
+
+Using your favorite text editor, create a text file called sample.txt 
+write a short message in it, and save it to the repository directory.
+
+Using your favorite text editor, create a text file called sample.txt 
+write a short message in it, and save it to the repository directory.
