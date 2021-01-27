@@ -1,3 +1,3 @@
-Using your favorite text editor, create a text file called sample.txt 
-write a short message in it, and save it to the repository directory.
-Change the text in the file, then at the bottom of the screen enter a commit message in the first field of the Commit Changes box. Then, Click the Commit Changes button at the bottom of the screen.
+It is a real pleasure to work with you team10.
+Thanks to Sam Tindall, Joseph Reidhead and Hannah Parker.
+Thanks
